@@ -25,7 +25,8 @@ let images = [
   `<img class="slide-img" src="./img/firebase-slide-22.jpg" alt="slide 22"/>`,
   `<img class="slide-img" src="./img/firebase-slide-23.jpg" alt="slide 23"/>`,
   `<img class="slide-img" src="./img/firebase-slide-24.jpg" alt="slide 24"/>`,
-  `<img class="slide-img" src="./img/firebase-slide-25.jpg" alt="slide 25"/>`
+  `<img class="slide-img" src="./img/firebase-slide-25.jpg" alt="slide 25"/>`,
+  `<img class="slide-img" src="./img/firebase-slide-26.jpg" alt="slide 26"/>`
 
 ];
 
