@@ -24,8 +24,9 @@ let images = [
   `<img class="slide-img" src="./img/firebase-slide-21.jpg" alt="slide 21"/>`,
   `<img class="slide-img" src="./img/firebase-slide-22.jpg" alt="slide 22"/>`,
   `<img class="slide-img" src="./img/firebase-slide-23.jpg" alt="slide 23"/>`,
-  `<img class="slide-img" src="./img/firebase-slide-24.jpg" alt="slide 24"/>`
-  
+  `<img class="slide-img" src="./img/firebase-slide-24.jpg" alt="slide 24"/>`,
+  `<img class="slide-img" src="./img/firebase-slide-25.jpg" alt="slide 25"/>`
+
 ];
 
 window.addEventListener("load", function() {
