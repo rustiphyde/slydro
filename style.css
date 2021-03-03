@@ -28,20 +28,23 @@ body {
 
 #slide-box {
   border: 6px solid #076b75;
-  margin: 0 auto;
+  position: relative;
   width: 80vw;
-  height: 92vh;
+  text-align: center;
+  margin-top: 16px;
+  height: 0;
+  padding-bottom: 56.25%;
   border-radius: 16px;
   box-shadow: 0 0 4px #f4db9d;
-  overflow: hidden;
-  position: relative;
 }
 
 .slide-img {
+  position: absolute;
+  top: 0;
+  left: 0;
   margin: 0 auto;
-  width: auto;
-  height: 92vh;
-  position: center;
+  width: 100%;
+  height: 100%;
 }
 
 #splash {
