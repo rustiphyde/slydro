@@ -56,7 +56,7 @@ window.addEventListener("load", function() {
     if (current === images.length - 1) {
       setTimeout(function() {
         arrowRight.style.visibility = "hidden";
-      }, 400);
+      }, 200);
     }
   });
 
@@ -73,7 +73,7 @@ window.addEventListener("load", function() {
     if (current <= 0) {
       setTimeout(function() {
         arrowLeft.style.visibility = "hidden";
-      }, 400);
+      }, 200);
     }
   });
 });
